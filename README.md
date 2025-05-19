@@ -6,7 +6,8 @@
 
      https://support.thrustmaster.com/en/product/t-16000m-fcs-flight-pack-en/
 
-  2. Install pygame
+  2. Python 3.x
+  3. Install pygame
 
      ```
      pip install pygame
